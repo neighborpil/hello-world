@@ -1,0 +1,6 @@
+C:\Users\Company\Desktop\[업무]\[Examples]\[C# 기타예제]\SerializeTest\SerializeTest\bin\Debug\SerializeTest.exe.config
+C:\Users\Company\Desktop\[업무]\[Examples]\[C# 기타예제]\SerializeTest\SerializeTest\bin\Debug\SerializeTest.exe
+C:\Users\Company\Desktop\[업무]\[Examples]\[C# 기타예제]\SerializeTest\SerializeTest\bin\Debug\SerializeTest.pdb
+C:\Users\Company\Desktop\[업무]\[Examples]\[C# 기타예제]\SerializeTest\SerializeTest\obj\Debug\SerializeTest.csprojResolveAssemblyReference.cache
+C:\Users\Company\Desktop\[업무]\[Examples]\[C# 기타예제]\SerializeTest\SerializeTest\obj\Debug\SerializeTest.exe
+C:\Users\Company\Desktop\[업무]\[Examples]\[C# 기타예제]\SerializeTest\SerializeTest\obj\Debug\SerializeTest.pdb
